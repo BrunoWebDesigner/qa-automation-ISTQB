@@ -16,7 +16,7 @@
 
 #### **gTAA Interfaces**
 
-![image1](image1)  
+![image1](img/gTAA.png)  
 *Figure 1: gTAA diagram*
 
 - **SUT Interface:** Connects TAF to the SUT (e.g., APIs, UI drivers).
@@ -51,7 +51,7 @@
 
 **Layered Structure and Scaling Example:**
 
-![image2](image2)  
+![image2](img/TAFs.png)  
 *Figure 3: Application of Core Libraries to Multiple TAFs*
 
 - **Test Scripts:** Store test cases, call business logic.
